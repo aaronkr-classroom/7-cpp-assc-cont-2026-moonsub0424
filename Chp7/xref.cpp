@@ -28,20 +28,23 @@ map<string, vector<int> > xref(
 		// 현재 행에 등장한 모든 단어를 저장
 		for (vector <string>::const_iterator it = words.begin();
 			it != words.end(); ++it) {
+			/*
+			연습문제: xref.cpp에서
+			7-7 (한 행 번호만 출력)
+			그리고 한 줄에 단어가 두 번이상 나타나면
+			줄 번호를 여러 번 출력하지 않고 한 번만 출력하세요.
+			*/
 			if(find(ret[*it].begin(), ret[*it].end(), line_num) == ret[*it].end())
-			ret[*it].push_back(line_num);
+			
+				
+				ret[*it].push_back(line_num);
 
 			}
 		
 	}
 	return ret;
 }
-/*
-	연습문제: xref.cpp에서
-	7-7 (한 행 번호만 출력)
-	그리고 한 줄에 단어가 두 번이상 나타나면
-	줄 번호를 여러 번 출력하지 않고 한 번만 출력하세요.
-*/
+
 
 int main(void) {
 
