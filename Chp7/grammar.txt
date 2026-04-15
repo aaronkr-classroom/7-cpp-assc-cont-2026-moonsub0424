@@ -1,0 +1,26 @@
+<noun> cat
+<noun> dog
+<noun> egg
+<noun> rock
+<noun> frog
+<noun> juice
+<noun> hammer
+<noun> albino
+<noun> snack
+<noun> turtle
+<noun> table
+<noun_phrase> <adjective> <noun_phrase>
+<noun_phrase> <noun>
+<adjective> large
+<adjective> brown
+<adjective> absurd
+<verb> jumps
+<verb> sits
+<verb> eats
+<verb> plays
+<verb> reads
+<verb> dances
+<location> on the stairs
+<location> under the sky
+<location> wherever it wants
+<sentence> the <noun_phrase> <verb> <location>

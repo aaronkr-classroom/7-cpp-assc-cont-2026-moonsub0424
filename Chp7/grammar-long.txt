@@ -1,0 +1,63 @@
+<noun> cat  
+<noun> dog  
+<noun> egg  
+<noun> rock  
+<noun> frog  
+<noun> juice  
+<noun> hammer  
+<noun> albino  
+<noun> snack  
+<noun> turtle  
+<noun> table  
+<noun> magician  
+<noun> robot  
+<noun> dragon  
+<noun> painter  
+<noun> sandwich  
+<noun> pirate  
+<noun> astronaut  
+
+<noun_phrase> <adjective> <noun_phrase>  
+<noun_phrase> <noun>  
+<noun_phrase> the <noun_phrase> with the <noun>  
+<noun_phrase> the <noun_phrase> of the <noun_phrase>  
+
+<adjective> large  
+<adjective> brown  
+<adjective> absurd  
+<adjective> invisible  
+<adjective> sleepy  
+<adjective> flying  
+<adjective> mysterious  
+<adjective> crunchy  
+<adjective> sparkly  
+<adjective> terrifying  
+<adjective> tiny  
+
+<verb> jumps  
+<verb> sits  
+<verb> eats  
+<verb> plays  
+<verb> reads  
+<verb> dances  
+<verb> floats  
+<verb> crashes  
+<verb> whispers  
+<verb> meditates  
+<verb> explodes  
+<verb> sings  
+<verb> dreams  
+<verb> spins  
+
+<location> on the stairs  
+<location> under the sky  
+<location> wherever it wants  
+<location> at the edge of reality  
+<location> in the dusty attic  
+<location> beyond the mountains  
+<location> beneath the waves  
+<location> on top of the world  
+<location> in the quiet forest  
+<location> between two moments in time  
+
+<sentence> the <noun_phrase> <verb> <location>  
